@@ -13,7 +13,6 @@ Connect with me:
   <a href="https://github.com/Govindev Eyyani Pradeesh">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://https://www.instagram.com/govindev?igsh=MTB2ZWFlbDZqZmo5cg==">
