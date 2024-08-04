@@ -1,39 +1,54 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I’m Govindev Eyyani Pradeesh</h1>
 
 ###
 
-<p align="left">My name is Govindev Eyyani Pradeesh and I'm a ddata analys, from kerala </p>
+<p align="left">I am an aspiring data analyst with a background in civil engineering and a passion for uncovering insights through data. My journey in data analytics began with my studies at Masai School, where I honed my skills in SQL, Python, and PowerBI. I have completed several projects that demonstrate my ability to analyze data, generate insights, and create interactive reports.</p>
 
 ###
 
-<h2 align="left">Welcome to my GitHub Profile. I'm a data analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Excel, Python. As a dedicated Data Analyst with a keen eye for detail, I excel at transforming complex datasets into clear, actionable insights. My expertise lies in statistical analysis, data modeling, and data visualization, allowing me to drive informed decision-making and uncover meaningful patterns in data.</h2>
+<h2 align="left"></h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning at masai school <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<div align="center">
+  <img height="200" src="https://media.istockphoto.com/id/1784901490/photo/kpi-analytics-dashboard.webp?s=1024x1024&w=is&k=20&c=K__AGDijnpTaA01NqLZH9AlFyHcxPq7jyt43w0maGLQ="  />
+</div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/govindev-eyyani-pradeesh-675b0426a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="govindev1231@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/govindev?igsh=MTB2ZWFlbDZqZmo5cg==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=govindeveyyani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=govindeveyyani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
