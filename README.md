@@ -9,7 +9,7 @@
 <h1 align="center">  
 Connect with me:
 <div id="badges">
-  <a href="https://github.com/ErGovindev Eyyani Pradeesh">
+  <a href="https://github.com/Govindev Eyyani Pradeesh">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.youtube.com/">
