@@ -2,7 +2,7 @@
 - 👀A dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights. , I specialize in statistical analysis, data modeling, and data visualisation.
 
 - 🌱 I’m currently learning Data Analysis
-- 📫 How to reach me: er.govindev1231@gmail.com
+- 📫 How to reach me:govindev1231@gmail.com
   
 ![Govindev Eyyani Pradeesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Ersaurabhkumar&show_icons=true&theme=dark)
 
