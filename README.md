@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me:govindev1231@gmail.com
-  
-![Govindev Eyyani Pradeesh GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=Govindev Eyyani Pradeeshtrue&theme=dark)
+
+  ![Govindev Eyyani Pradeesh](https://github-readme-stats.vercel.app/api?username=govindeveyyani&show_icons=true&theme=dark)
+
 
 <h1 align="center">  
 Connect with me:
