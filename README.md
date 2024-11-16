@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an aspiring data analyst with a background in civil engineering and a passion for uncovering insights through data. My journey in data analytics began with my studies at Masai School, where I honed my skills in SQL, Python, and PowerBI. I have completed several projects that demonstrate my ability to analyze data, generate insights, and create interactive reports.</p>
+<p align="left">I am an aspiring data analyst with a background in  engineering and a passion for uncovering insights through data. My journey in data analytics began with my studies at Masai School, where I honed my skills in SQL, Python, and PowerBI. I have completed several projects that demonstrate my ability to analyze data, generate insights, and create interactive reports.</p>
 
 ###
 
